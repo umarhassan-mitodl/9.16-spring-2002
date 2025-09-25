@@ -4,6 +4,8 @@ description: In this assignment you will build a simulation of the presynaptic t
 file: /courses/9-16-cellular-neurophysiology-spring-2002/cfd7e3b8231e24250dada390062537ca_problem_set_2.pdf
 file_size: 187183
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

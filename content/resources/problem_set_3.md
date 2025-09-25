@@ -4,6 +4,8 @@ description: Assignment on the kinetic properties of AMPA and NMDA receptors.
 file: /courses/9-16-cellular-neurophysiology-spring-2002/fbde0a5c6b18f1ccef26d34af9960c28_problem_set_3.pdf
 file_size: 75322
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
