@@ -1,0 +1,57 @@
+{
+  "term": "Spring",
+  "year": "2002",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Neurobiology"
+    ],
+    [
+      "Health and Medicine",
+      "Anatomy and Physiology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Cell Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Neuroscience"
+    ]
+  ],
+  "legacy_uid": "883ed7df-aa71-6304-2092-da0e367fe4e4",
+  "instructors": {
+    "content": [
+      "a6b23d60-a9bb-0578-2fcd-32a53a6870d3"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "be8f0c39-da56-91d5-c47d-8973ace453c8",
+    "website": "9-16-cellular-neurophysiology-spring-2002"
+  },
+  "course_title": "Cellular Neurophysiology",
+  "course_description": "This course includes:\n\n*   Surveying the molecular and cellular mechanisms of neuronal communication.\n*   Coversion channels in excitable membrane, synaptic transmission, and synaptic plasticity.\n*   Correlation of the properties of ion channels and synaptic transmission with their physiological function such as learning and memory.\n*   Discussion of the organizational principles for the formation of functional neural networks at synaptic and cellular levels.\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "9.161",
+  "primary_course_number": "9.16",
+  "course_image_thumbnail": {
+    "content": "d5b0e171-8cd9-f62c-67e2-182a88754cb5",
+    "website": "9-16-cellular-neurophysiology-spring-2002"
+  },
+  "learning_resource_types": [
+    "Problem Sets"
+  ],
+  "site_uid": "2f6c632d-ee1d-4a99-b1b3-0bf90bfaad2c",
+  "site_short_id": "9.16-spring-2002",
+  "site_url_path": "courses/9-16-cellular-neurophysiology-spring-2002",
+  "title": "Course Metadata"
+}
